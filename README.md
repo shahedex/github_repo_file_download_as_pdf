@@ -6,7 +6,7 @@ $ git clone https://github.com/shahedex/github_repo_file_download_as_pdf.git
 ```
 ## Create and activate a Virtual Environment
 ```bash
-$ cd github_file_fullpage_download
+$ cd github_repo_file_download_as_pdf
 $ python3 -m venv venv
 $ source venv/bin/activate
 ```
